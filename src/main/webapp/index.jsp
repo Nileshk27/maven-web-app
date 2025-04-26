@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to SVKM's NMIMS (Nilkamal School of Applied Statistics and Applied Mathematics <font></h1>
+<h1><font color='red'> Welcome to SVKM's NMIMS (Nilkamal School of Applied Statistics and Applied Mathematics) <font></h1>
 
 <a href="https://www.mathematics.nmims.edu/">Click Here to visite the Official website</a>
   
