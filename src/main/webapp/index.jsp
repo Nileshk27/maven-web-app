@@ -18,7 +18,7 @@
     <p>Welcome to the official internal portal of NMIMS - NSOMASA.</p>
     <a href="https://mathematics.nmims.edu" target="_blank">Visit Official Website</a>
 
-    <h2>Contact Us: +91-8291057172</h2>
+    <h2>Contact Us: +91 8291057172</h2>
     <h3>Location: Mumbai, Maharashtra</h3>
 </body>
 </html>
