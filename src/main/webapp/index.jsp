@@ -2,18 +2,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to SVKM's NMIMS (NSOMASA)</title>
+    <title>NMIMS NSOMASA - Home</title>
 </head>
 <body>
-    <h1><font color='red'>Welcome to SVKM's NMIMS (NSOMASA)</font></h1>
+    <h1 style="color:red;">Welcome to SVKM's NMIMS (NSOMASA)</h1>
 
-    <a href="https://mathematics.nmims.edu" target="_blank">Click Here to visit the Official Website</a>
-  
+    <nav>
+        <a href="index.jsp">Home</a> |
+        <a href="about.jsp">About</a> |
+        <a href="courses.jsp">Courses</a> |
+        <a href="gallery.jsp">Gallery</a> |
+        <a href="contact.jsp">Contact</a>
+    </nav>
+
+    <p>Welcome to the official internal portal of NMIMS - NSOMASA.</p>
+    <a href="https://mathematics.nmims.edu" target="_blank">Visit Official Website</a>
+
     <h2>Contact Us: +91-8291057172</h2>
-  
-    <h3>Our Office Location: Mumbai, Maharashtra</h3>
-
-    <br><br>
-    <a href="about.jsp">Learn more about NSOMASA →</a>
+    <h3>Location: Mumbai, Maharashtra</h3>
 </body>
 </html>
