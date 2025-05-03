@@ -6,7 +6,7 @@
   
   <h2> Contact Us : +91-8291057172  </h2>
   
-  <h3> Our Ofc Location : Mumbai, Maharashtra </h3>
+  <h3> Our Office Location : Mumbai, Maharashtra </h3>
 
 </body>
 </html>
