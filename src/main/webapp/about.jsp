@@ -2,12 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About NSOMASA</title>
+    <title>About Us</title>
 </head>
 <body>
-    <h1>About SVKM's NMIMS - NSOMASA</h1>
-    <p>NMIMS School of Mathematical Sciences (NSOMASA) is committed to excellence in education and research in the field of mathematics and allied sciences.</p>
+    <nav>
+        <a href="index.jsp">Home</a> |
+        <a href="about.jsp">About</a> |
+        <a href="courses.jsp">Courses</a> |
+        <a href="gallery.jsp">Gallery</a> |
+        <a href="contact.jsp">Contact</a>
+    </nav>
 
-    <a href="index.jsp">← Back to Home</a>
+    <h1>About NSOMASA</h1>
+    <p>NSOMASA is a part of NMIMS, focusing on mathematical and statistical sciences with industry-driven curricula and research.</p>
 </body>
 </html>
