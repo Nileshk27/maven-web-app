@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to SVKM's NMIMS (NSOMASA) <font></h1>
+<h1><font color='red'> Welcome to SVKM's NMIMS (NSOMASA) <font></h1>
 
 <a href="https://mathematics.nmims.edu">Click Here to visite the Official website</a>
   
